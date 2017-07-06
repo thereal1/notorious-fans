@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "test_user",
+    "password": "pass123",
+    "database": "notorious-fans",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}

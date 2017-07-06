@@ -1,0 +1,22 @@
+{
+  "name": "notorious-fans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "1.15.2",
+    "crypto-js": "^3.1.6",
+    "express": "^4.15.2",
+    "jsonwebtoken": "*",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "2.4.0"
+  }
+}
